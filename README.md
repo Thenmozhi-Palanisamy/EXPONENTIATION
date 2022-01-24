@@ -24,7 +24,9 @@ RegisterNumber: 21005219
 ```
 
 ## Output:
-![exponentiation of a number](expo.png)![Uploading Screenshot (92).png…]()
+![](.//EXPONENTION.png)
+
+()
 ****
 
 
